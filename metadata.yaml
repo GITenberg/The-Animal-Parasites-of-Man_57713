@@ -1,5 +1,5 @@
 _repo: The-Animal-Parasites-of-Man_57713
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributors:
   - agent_name: Braun, Max
@@ -8,6 +8,9 @@ contributor:
   - agent_name: Seifert, Otto
     gutenberg_agent_id: '49553'
     url: http://www.gutenberg.org/2009/agents/49553
+covers:
+- cover_type: archival
+  image_path: 57713-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Fantham, H. B.
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '49551'
     url: http://www.gutenberg.org/2009/agents/49551
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57713#The-Animal-Parasites-of-Man
 gutenberg_issued: '2018-08-17'
 gutenberg_type: Text
 identifiers:
