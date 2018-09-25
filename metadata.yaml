@@ -1,0 +1,34 @@
+_repo: The-Animal-Parasites-of-Man_57713
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Braun, Max
+    gutenberg_agent_id: '49552'
+    url: http://www.gutenberg.org/2009/agents/49552
+  - agent_name: Seifert, Otto
+    gutenberg_agent_id: '49553'
+    url: http://www.gutenberg.org/2009/agents/49553
+creator:
+  authors:
+  - agent_name: Fantham, H. B.
+    gutenberg_agent_id: '49549'
+    url: http://www.gutenberg.org/2009/agents/49549
+  - agent_name: Stephens, J. W. W.
+    gutenberg_agent_id: '49550'
+    url: http://www.gutenberg.org/2009/agents/49550
+  - agent_name: Theobald, F. V.
+    gutenberg_agent_id: '49551'
+    url: http://www.gutenberg.org/2009/agents/49551
+description: ''
+gutenberg_issued: '2018-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57713'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Animal Parasites of Man
+url: http://www.gutenberg.org/ebooks/57713
